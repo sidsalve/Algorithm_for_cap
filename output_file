@@ -1,0 +1,7 @@
+['f', 'n', 'f', 'b', 'f', 'f', 'n', 'b', 'f', 'b', 'b', 'n', 'f', 'b', 'b', 'b', 'f', 'f', 'n', 'b']
+Person in positions 3 please flip your caps
+Person in positions 7 please flip your caps
+People in positions 9 through 10 please flip your caps
+People in positions 13 through 15 please flip your caps
+Person in positions 19 please flip your caps
+This will get everyone with caps on forwards in only 5 commands.
